@@ -13,8 +13,7 @@ import { Vue, Component } from 'vue-property-decorator'
 @Component({
   name: 'HomePage',
 })
-export default class HomePage extends Vue {
-}
+export default class HomePage extends Vue {}
 </script>
 
 <style lang="scss">
